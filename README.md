@@ -18,6 +18,6 @@ English: goodbye <BR>
 Literal: stay in peace <BR>
 Eastern: poosh b'shena <BR>
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ <BR>
-Literal: remain in good health <BR>
+Literal: stay in peace <BR>
 Western: fish b'shlomo <BR>
 Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ <BR>
