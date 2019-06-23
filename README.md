@@ -30,7 +30,7 @@ Literal: stay in peace <BR>
 Western: fish b'shayno <BR>
 Assyriac: ܦܽܘܫ ܒܫܲܝܢܵܐ <BR>
 
-## Contributation
+## Contribution
 
 Everyone is encouraged to join the effort and contribute to this open source repository. One may contribute by:
 
