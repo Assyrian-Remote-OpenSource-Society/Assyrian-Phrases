@@ -1,13 +1,13 @@
 English: welcome
 Literal: in peace you have come
-Eastern: b'shena tee lookh
+Eastern: b'shena tee lookh, b'shena tee lakh
 Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
 Western: b'shano ...
 Assyriac: ...
 
 English: welcome (plural)
 Literal: in peace you [all] have come
-Eastern: b'shena tee lookhoon
+Eastern: b'shena tee lokhoon
 Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂ܘܼܢ
 Western: b'shano ...
 Assyriac: ...
