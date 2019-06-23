@@ -42,7 +42,7 @@ English: goodbye
 Literal: stay in peace
 Eastern: poosh b'shena
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
-Literal: remain in peace
+Literal: stay in peace
 Western: fish b'shlomo
 Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ 
 
