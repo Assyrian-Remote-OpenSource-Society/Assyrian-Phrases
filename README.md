@@ -40,13 +40,13 @@ Found in the New Testament, but evident to have been used prior, such as Akkadia
 
 you can take the horse to the river, but you can't make it drink <BR>
 ... <BR>
-the horse you can take [him] to the river, but you can't make him drink <BR>
-soosa kamsit lablitli al'nahra, eena le amsit mashtitle <BR>
+the horse you can take [him] to the river, but you can't have him drink by force <BR>
+soosa kamsit lablitli al'nahra, eena le amsit mashtitle b'khela <BR>
 ... <BR>
 ... <BR>
 ... <BR>
 ... <BR>
-A popular saying in English. Origin is not known to this document at this time. <BR>
+A popular saying in English. Origin is not known to this document at this time. The Assyrian version is a translation of the English version. <BR>
 
 ## Contribution
 
