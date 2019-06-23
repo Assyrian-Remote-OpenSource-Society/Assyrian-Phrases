@@ -5,7 +5,7 @@ A repository of Assyrian phrases.
 ## Schema
 
 English: phrase or word in English <BR>
-Detail: short explanation of the word <BR>
+Details: short explanation of the word <BR>
 Literal: English literal of the Eastern phrase <BR>
 Eastern: phonetic of the Eastern phrase <BR>
 Assyriac: spelling of the Eastern phrase in Assyriac <BR>
@@ -22,7 +22,7 @@ male form / female form
 **Example**
 
 English: goodbye <BR>
-Detail: said to an individual by the one(s) leaving <BR>
+Details: said to an individual by the one(s) leaving <BR>
 Literal: stay in peace <BR>
 Eastern: poosh b'shena <BR>
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ <BR>
