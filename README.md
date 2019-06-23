@@ -22,15 +22,15 @@ male form / female form
 
 **Example**
 
-English: goodbye <BR>
-Details: said to an individual by the one(s) leaving <BR>
-Literal: stay in peace <BR>
-Eastern: poosh b'shena <BR>
-Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ <BR>
-Literal: stay in peace <BR>
-Western: fish b'shayno <BR>
-Assyriac: ܦܽܘܫ ܒܫܲܝܢܵܐ <BR>
-Origin: Found in the New Testament, but evident to have been used prior, such as Akkadian "pūšbašlāmu" (remain with peace / good health / wellbeing). <BR>
+goodbye <BR>
+said to an individual by the one(s) leaving <BR>
+stay in peace <BR>
+poosh b'shena <BR>
+ܦܘܼܫ ܒܫܲܝܢܵܐ <BR>
+stay in peace <BR>
+fish b'shayno <BR>
+ܦܽܘܫ ܒܫܲܝܢܵܐ <BR>
+Found in the New Testament, but evident to have been used prior, such as Akkadian "pūšbašlāmu" (remain with peace / good health / wellbeing). <BR>
 
 ## Contribution
 
