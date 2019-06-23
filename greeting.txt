@@ -1,0 +1,27 @@
+English: welcome
+Literal: in peace you have come
+Eastern: b'shena tee lookh
+Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
+Western: b'shano ...
+Assyriac: ...
+
+English: welcome (plural)
+Literal: in peace you [all] have come
+Eastern: b'shena tee lookhoon
+Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂ܘܼܢ
+Western: b'shano ...
+Assyriac: ...
+
+English: goodbye
+Literal: stay in peace and in good health
+Eastern: poosh b'shena ou b'shlama
+Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ ܘܒܫܠܵܡܵܐ
+Western: fish b'shano u b'shlomo
+Assyriac: ...
+
+English: goodbye (plural)
+Literal: [all of you] remain in peace and good health
+Eastern: pooshoon b'shena ou b'shlama
+Assyrianc: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐ ܘܒܫܠܵܡܵܐ
+Western: ... b'shano u b'shlomo 
+Assyriac: ...
