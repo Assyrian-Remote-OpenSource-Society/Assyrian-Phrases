@@ -40,11 +40,19 @@ Assyriac: ... ܒܫܲܝܢܵܐ
 
 English: goodbye
 Literal: stay in peace
-Eastern: poosh b'shena
+Eastern: poosh b'shlama
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
 Literal: stay in peace
 Western: fish b'shlomo
 Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ 
+
+English: goodbye
+Literal: stay in peace
+Eastern: poosh b'shena
+Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
+Literal: stay in peace
+Western: fish b'shayno
+Assyriac: ܦܽܘܫ ܒܫܲܝܢܵܐ
 
 English: goodbye (plural)
 Literal: [all of you] remain in peace
