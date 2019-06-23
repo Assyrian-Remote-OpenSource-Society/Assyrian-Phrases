@@ -13,6 +13,12 @@ Literal: English literal of the Western phrase <BR>
 Western: phonetic of the Western phrase <BR>
 Assyriac: spelling of the Western phrase in Assyriac <BR>
 
+**Notation**
+
+A slash, /, between phrases indicates the same phrase in different gender form: <BR>
+<BR>
+male form / female form
+
 **Example**
 
 English: goodbye <BR>
@@ -23,3 +29,14 @@ Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ <BR>
 Literal: stay in peace <BR>
 Western: fish b'shayno <BR>
 Assyriac: ܦܽܘܫ ܒܫܲܝܢܵܐ <BR>
+
+## Contributation
+
+Everyone is encouraged to join the effort and contribute to this open source repository. One may contribute by:
+
+- joining the group and making changes directly (contact Ron Rihoo at rihooron@gmail.com);
+- forking the repository, making changes, and creating a pull request; or
+- creating an issue with the suggested changes/additions.
+
+This repository eagerly awaits for your contributions.
+
