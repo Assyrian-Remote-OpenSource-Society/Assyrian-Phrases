@@ -1,39 +1,55 @@
+English: hello (request)
+Literal: peace
+Eastern: shlama
+Assyriac: ܫܲܝܢܵܐ 
+Literal: peace
+Western: shlomo 
+Assyriac: ܫܲܝܢܵܐ
+
+English: hello (response)
+Literal: peace
+Eastern: shena
+Assyriac: ܫܲܝܢܵܐ 
+Literal: peace
+Western: shayno 
+Assyriac: ܫܲܝܢܵܐ
+
+English: hello (long)
+Literal: peace upon you
+Eastern: shlama lookh; shlama lakh
+Assyriac: ܫܠܵܡܵܐ ܠܘܼܟ݂ 
+Literal: peace upon you
+Western: shlomo lookh
+Assyriac: ܫܠܳܡܳܐ ܠܽܘܟ݂
+
 English: welcome
 Literal: in peace you have come
-Eastern: b'shena tee lookh, b'shena tee lakh
-Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
+Eastern: b'shena tee lookh; b'shena tee lakh
+Assyriac: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
 Literal: in peace you have come
-Western: b'shano ...
-Assyriac: ...
+Western: b'shayno ...
+Assyriac: ... ܒܫܲܝܢܵܐ
 
 English: welcome (plural)
 Literal: in peace you [all] have come
 Eastern: b'shena tee lokhoon
-Assyrianc: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂ܘܼܢ
+Assyriac: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂ܘܼܢ
 Literal: in peace you [all] have come
-Western: b'shano ...
-Assyriac: ...
+Western: b'shayno ...
+Assyriac: ... ܒܫܲܝܢܵܐ
 
-English: goodbye (short)
+English: goodbye
 Literal: stay in peace
 Eastern: poosh b'shena
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
-Literal: remain in good health
+Literal: remain in peace
 Western: fish b'shlomo
 Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ 
 
-English: goodbye (long)
-Literal: stay in peace and in good health
-Eastern: poosh b'shena ou b'shlama
-Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ ܘܒܫܠܵܡܵܐ
-Literal: stay in peace and in good health
-Western: fish b'shano u b'shlomo
-Assyriac: ...
-
 English: goodbye (plural)
-Literal: [all of you] remain in peace and in good health
-Eastern: pooshoon b'shena ou b'shlama
-Assyrianc: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐ ܘܒܫܠܵܡܵܐ
-Literal: [all of you] remain in peace and in good health
-Western: ... b'shano u b'shlomo 
-Assyriac: ...
+Literal: [all of you] remain in peace
+Eastern: pooshoon b'shena
+Assyriac: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐܐ
+Literal: [all of you] remain in peace
+Western: ... b'shayno
+Assyriac: ܒܫܠܳܡܳܐ ...
