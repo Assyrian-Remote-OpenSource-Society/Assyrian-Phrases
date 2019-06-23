@@ -18,7 +18,13 @@ Origin: The potential origin of the phrase, if known. This item should include c
 
 A slash, /, between phrases indicates the same phrase in different gender form: <BR>
 <BR>
-male form / female form
+male form / female form <BR>
+
+Three dots, ..., indicate that the data is intended to be filled.
+
+**Requirements**
+
+All rows must adhere to the schema. None of the rows can be left out except for the last one (origin), which will be assumed as empty or missing data. All other rows that don't have data must indicate so with three dots, ..., so that the entry can be programmatically converted to another format.
 
 **Example**
 
@@ -31,6 +37,16 @@ stay in peace <BR>
 fish b'shayno <BR>
 ܦܽܘܫ ܒܫܲܝܢܵܐ <BR>
 Found in the New Testament, but evident to have been used prior, such as Akkadian "pūšbašlāmu" (remain with peace / good health / wellbeing). <BR>
+
+you can take the horse to the river, but you can't make it drink <BR>
+... <BR>
+you can take the horse to the river, but you can't make it drink <BR>
+soosa kamsit lablitli al'nahra, eena le amsit mashtitle <BR>
+... <BR>
+... <BR>
+... <BR>
+... <BR>
+A popular saying in English. Origin is not known to this document at this time. <BR>
 
 ## Contribution
 
