@@ -40,7 +40,7 @@ Found in the New Testament, but evident to have been used prior, such as Akkadia
 
 you can take the horse to the river, but you can't make it drink <BR>
 ... <BR>
-you can take the horse to the river, but you can't make it drink <BR>
+the horse you can take [him] to the river, but you can't make him drink <BR>
 soosa kamsit lablitli al'nahra, eena le amsit mashtitle <BR>
 ... <BR>
 ... <BR>
