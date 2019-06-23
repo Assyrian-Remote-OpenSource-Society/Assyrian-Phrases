@@ -1,4 +1,5 @@
-English: hello (request)
+English: hello
+Details: request; said by the one who first greets
 Literal: peace
 Eastern: shlama
 Assyriac: ܫܲܝܢܵܐ 
@@ -6,7 +7,8 @@ Literal: peace
 Western: shlomo 
 Assyriac: ܫܲܝܢܵܐ
 
-English: hello (response)
+English: hello
+Details: response; said by the one who responds to the greeting
 Literal: peace
 Eastern: shena
 Assyriac: ܫܲܝܢܵܐ 
@@ -14,7 +16,8 @@ Literal: peace
 Western: shayno 
 Assyriac: ܫܲܝܢܵܐ
 
-English: hello (long)
+English: hello
+Detail: longer variation; directs the greeting towards an individual
 Literal: peace upon you
 Eastern: shlama lookh; shlama lakh
 Assyriac: ܫܠܵܡܵܐ ܠܘܼܟ݂ 
@@ -23,6 +26,7 @@ Western: shlomo lookh
 Assyriac: ܫܠܳܡܳܐ ܠܽܘܟ݂
 
 English: welcome
+Detail: receiving an individual as a guest
 Literal: in peace you have come
 Eastern: b'shena tee lookh; b'shena tee lakh
 Assyriac: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
@@ -31,6 +35,7 @@ Western: b'shayno ...
 Assyriac: ... ܒܫܲܝܢܵܐ
 
 English: welcome (plural)
+Detail: receiving more than one person as guests
 Literal: in peace you [all] have come
 Eastern: b'shena tee lokhoon
 Assyriac: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂ܘܼܢ
@@ -39,14 +44,7 @@ Western: b'shayno ...
 Assyriac: ... ܒܫܲܝܢܵܐ
 
 English: goodbye
-Literal: stay in peace
-Eastern: poosh b'shlama
-Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
-Literal: stay in peace
-Western: fish b'shlomo
-Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ 
-
-English: goodbye
+Detail: said to an individual by the one(s) leaving
 Literal: stay in peace
 Eastern: poosh b'shena
 Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
@@ -55,9 +53,37 @@ Western: fish b'shayno
 Assyriac: ܦܽܘܫ ܒܫܲܝܢܵܐ
 
 English: goodbye (plural)
+Detail: said to two or more people by the one(s) leaving
 Literal: [all of you] remain in peace
 Eastern: pooshoon b'shena
 Assyriac: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐܐ
 Literal: [all of you] remain in peace
 Western: ... b'shayno
 Assyriac: ܒܫܠܳܡܳܐ ...
+
+English: goodbye
+Detail: said to an individual by the one(s) staying
+Literal: stay in peace
+Eastern: poosh b'shlama
+Assyriac: ܦܘܼܫ ܒܫܲܝܢܵܐ
+Literal: stay in peace
+Western: fish b'shlomo
+Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ 
+
+English: goodbye (plural)
+Detail: said to two or more people by the one(s) staying
+Literal: stay in peace
+Eastern: pooshoon b'shlama
+Assyriac: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐ
+Literal: stay in peace
+Western: ... b'shlomo
+Assyriac: ܒܫܠܳܡܳܐ ...
+
+English: may the Lord be with you; Godspeed
+Detail: said to an individual who's leaving by the one(s) staying
+Literal: God [be] with you
+Eastern: alah minookh; alah minakh
+Assyriac: ܐܲܠܵܗܵܐ ܡܸܢܘܼܟ݂ 
+Literal: God [be] with you
+Western: ...
+Assyriac: ...
