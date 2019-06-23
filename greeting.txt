@@ -72,10 +72,10 @@ Assyriac: ܦܽܘܫ ܒܫܠܳܡܳܐ
 
 English: goodbye (plural)
 Detail: said to two or more people by the one(s) staying
-Literal: stay in peace
+Literal: [all of you] stay in peace
 Eastern: pooshoon b'shlama
 Assyriac: ܦܘܼܫܘܼܢ ܒܫܲܝܢܵܐ
-Literal: stay in peace
+Literal: [all of you] stay in peace
 Western: ... b'shlomo
 Assyriac: ܒܫܠܳܡܳܐ ...
 
