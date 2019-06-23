@@ -19,7 +19,7 @@ Assyriac: ܫܲܝܢܵܐ
 English: hello
 Detail: longer variation; directs the greeting towards an individual
 Literal: peace upon you
-Eastern: shlama lookh; shlama lakh
+Eastern: shlama lookh / shlama lakh
 Assyriac: ܫܠܵܡܵܐ ܠܘܼܟ݂ 
 Literal: peace upon you
 Western: shlomo lookh
@@ -28,7 +28,7 @@ Assyriac: ܫܠܳܡܳܐ ܠܽܘܟ݂
 English: welcome
 Detail: receiving an individual as a guest
 Literal: in peace you have come
-Eastern: b'shena tee lookh; b'shena tee lakh
+Eastern: b'shena tee lookh / b'shena tee lakh
 Assyriac: ܒܫܲܝܢܵܐ ܬܹܐ ܠܘܿܟ݂
 Literal: in peace you have come
 Western: b'shayno ...
@@ -82,7 +82,7 @@ Assyriac: ܒܫܠܳܡܳܐ ...
 English: may the Lord be with you; Godspeed
 Detail: said to an individual who's leaving by the one(s) staying
 Literal: God [be] with you
-Eastern: alah minookh; alah minakh
+Eastern: alah minookh / alah minakh
 Assyriac: ܐܲܠܵܗܵܐ ܡܸܢܘܼܟ݂ 
 Literal: God [be] with you
 Western: ...
